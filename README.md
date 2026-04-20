@@ -4,11 +4,6 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 ---
 
-## Live Demo
-
-https://your-portfolio-link.vercel.app
-
----
 
 ## About
 
