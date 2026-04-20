@@ -62,7 +62,7 @@ git clone https://github.com/Premhari-7/portfolio.git
 
 Navigate to the project:
 
-cd portfolio
+cd my-portfolio
 
 Install dependencies:
 
