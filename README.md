@@ -1,18 +1,92 @@
-# React + Vite
+# Prem Hari S – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built to showcase my skills, projects, and experience as a MERN Stack Developer and UI/UX Designer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+https://your-portfolio-link.vercel.app
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## About
 
-## Expanding the ESLint configuration
+I am Prem Hari S, a developer focused on building full-stack web applications with clean design and efficient architecture. I enjoy working on real-world projects that combine functionality with good user experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+My primary focus is on developing scalable applications using modern web technologies.
+
+---
+
+## Tech Stack
+
+Frontend:
+- React.js
+- HTML5
+- CSS3
+
+Backend:
+- Node.js
+- Express.js
+
+Database:
+- MongoDB
+
+Tools and Design:
+- Figma
+- Git and GitHub
+- Postman
+
+---
+
+## Features
+
+- Responsive portfolio design
+- Project showcase with image preview
+- Skills section with external documentation links
+- Clean UI with modern layout
+- Smooth user experience
+
+---
+
+## Projects Included
+
+- Scent Bite (Capstone Project with full-stack implementation and inventory management)
+- GUVI Internship Task (Authentication system using HTML, CSS, JavaScript, and PHP)
+- Plant Disease Analyzer (AI and Machine Learning based application using TensorFlow and Flask)
+- Smart Parking System (Flask-based slot booking system with real-time updates)
+
+---
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Premhari-7/portfolio.git
+
+Navigate to the project:
+
+cd portfolio
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+---
+
+Contact
+
+
+LinkedIn: https://linkedin.com/in/your-profile
+
+GitHub: https://github.com/Premhari-7
+
+Author
+
+Prem Hari S
+MERN Stack Developer and UI/UX Designer
